@@ -1,4 +1,4 @@
 numpy
-sckit-learn
+sklearn
 streamlit
 numpy
